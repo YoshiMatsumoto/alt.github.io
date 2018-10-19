@@ -144,6 +144,11 @@ section.resume-section .resume-item .resume-date {
   opacity: 0.8;
 }
 
+.design-primary {
+  background-color: #bdc3c7 !important;
+  opacity: 0.8;
+}
+
 .text-primary {
   color: #2c3e50 !important;
 }
